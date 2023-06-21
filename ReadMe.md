@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manmit Tiwade</h1>
 <h3 align="center">A passionate for the Mern stack</h3>
 
-<img align="right" alt"coding" width="400px" src="https://i.gifer.com/6M8G.gif">
+<img align="right" alt="coding" width="400px" src="https://i.gifer.com/6M8G.gif">
+
 
 - 🌱 I’m currently learning **React js**
 
