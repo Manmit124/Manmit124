@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manmit Tiwade</h1>
 <h3 align="center">A passionate for the Mern stack</h3>
 # 💫 About Me:
-🔭 I’m currently in learning mode<br>🌱 I’m currently learning react js<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently in learning mode<br>🌱 I’m currently learning next js<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
