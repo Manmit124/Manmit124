@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manmit Tiwade</h1>
 <h3 align="center">Full stack web developer</h3>
 
-- 🔭 I’m currently working on [Alumni-Nexus](https://alumini-site.vercel.app/)
+- 🔭 I’m currently working on [Alumni-Nexus](https://alumni-gcoec.vercel.app/)
 - 🌱 I’m currently learning **appwrite**
 - 💬 Ask me about **Next.js, **
 - 📫 How to reach me **manmittiwade124@gmail.com**
