@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **appwrite**
 - 💬 Ask me about **Next.js, **
 - 📫 How to reach me **manmittiwade124@gmail.com**
-- 👨‍💻 Check out my Portfolio **https://www.manmittiwade.me/**
+- 👨‍💻 Check out my Portfolio **[https://www.manmittiwade.me/](https://manmittiwade.vercel.app/)**
 
 
 <h3 align="left">Connect with me:</h3>
