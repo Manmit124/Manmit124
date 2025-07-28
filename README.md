@@ -3,7 +3,7 @@
 <h3 align="center">Full stack web developer</h3>
 
 - 🔭 I’m currently working on [Alumni-Nexus](https://alumni-gcoec.vercel.app/)
-- 🌱 I’m currently learning **appwrite**
+- 🌱 I’m currently learning **AI-Agent & LLM**
 - 💬 Ask me about **Next.js, **
 - 📫 How to reach me **manmittiwade124@gmail.com**
 - 👨‍💻 Check out my Portfolio **[https://www.manmittiwade.me/](https://manmittiwade.vercel.app/)**
